@@ -4,6 +4,8 @@ An end-to-end analytics project analyzing hospital quality, patient experience, 
 
 This project answers key healthcare performance questions by building a small analytical warehouse and delivering interactive visual insights.
 
+Live Dashboard: [View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmRiMGFkOTMtNjc2Yy00Y2ZiLWJhYWMtMzkzMzk5ZDZjNjQ2IiwidCI6ImEzYzdkMmJmLWY3MDgtNDcxMi04ZjBkLTBhZTE0MmEzNjJiNyIsImMiOjl9)
+
 ---
 
 ## Project Overview
